@@ -2,10 +2,10 @@
 
 Project Summary
 ---------------
-Navigation is tough. Safe navigation is tougher. Whether you're a tourist or a local, our project for HackPVD allows for anyone to get a fast and easy-to-understand visual of the safest areas in Providence using the city's public complaint data API. On desktop or mobile, quickly view to see the areas with the most complaints and have the power to act accordingly. 
 
-Rhode Island Open data is a two dimensional array.
-[2d array](https://www.cs.cmu.edu/~mrmiller/15-110/Handouts/arrays2D.pdf "2dimensional array")
+I had to learn about data and how to manipulate it to display on a Leaflet.js map, I had an incredibly hard time parsing the data, I had to learn some JavaScript skills to get to display the map and I haven't even finished putting it on a map!
+
+I learned the [RI Open Data](http://www.ri.gov/data/ "open data") was a [2D Array](https://www.cs.cmu.edu/~mrmiller/15-110/Handouts/arrays2D.pdf "2dimensional array")
 
 
 How to install on my own computer?
@@ -16,34 +16,15 @@ How to install on my own computer?
 
 
 npm install
------------
-
 node collection.js
---------------------
 
-Data Stream
------------
+
 > Using Open Data from [RI Data](]http://data.providenceri.com/, "providence data")
 >[Providence Open Data](https://data.providenceri.gov/dataset/PPD-Arrest-Log-Past-30-Days-HACKATHON/k6cx-967p, "data set")
 >Part of the technology we are going for is data driven map.  
 > How we populated the data to d3: 
 >>[Rhode Island Open Data](http://www.ri.gov/data/ "RI Open data")
 >> [d3 populate data from Rhode Island](https://github.com/mbostock/d3/wiki/Requests "d3js populate data")
-
-Codepen Collab Between the Team
--------------------------------
-
-> ![alt text](https://blog.codepen.io/wp-content/uploads/2012/06/EditOn-Codepen.svg "CodePen logo")
-
-> Example: http://codepen.io/toklok/pen/YqLQPd
-
-> Collab mode: http://codepen.io/toklok/collab/YqLQPd/
-
->CodePen Live
-------------
->[codepen live view](http://codepen.io/toklok/live/BKxQvg 
-
-> note:CodePen.io is sort of like a [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop "REPL for ClojureScript") that is easy to iterate and see changes live.  
 
 Resources
 ---------
