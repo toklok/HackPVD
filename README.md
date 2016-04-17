@@ -1,4 +1,4 @@
-# **A HackPVD Project**
+# **A HackPVD Project w/ the help of the contributors **
 
 Project Summary
 ---------------
