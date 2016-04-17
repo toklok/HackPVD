@@ -3,11 +3,7 @@
 Project Summary
 ---------------
 
-I had to learn about data and how to manipulate it to display on a Leaflet.js map, I had an incredibly hard time parsing the data, I had to learn some JavaScript skills to get to display the map and I haven't even finished putting it on a map!
-
-I learned the [RI Open Data](http://www.ri.gov/data/ "open data") was a [2D Array](https://www.cs.cmu.edu/~mrmiller/15-110/Handouts/arrays2D.pdf "2dimensional array")
-
-[destructuring](http://raganwald.com/2015/02/02/destructuring.html "destructuring")
+I had to learn about DATA!  [2 Dimensional Array](https://www.cs.cmu.edu/~mrmiller/15-110/Handouts/arrays2D.pdf "2 dimensional array") and [Multidimensional Arrays](http://stackoverflow.com/questions/7545641/javascript-multidimensional-array "multi dimensional array") it's not functional yet but after iterating on it, it will!
 
 How to install on my own computer?
 ==================================
@@ -28,23 +24,27 @@ How to install on my own computer?
 > [d3 populate data from Rhode Island](https://github.com/mbostock/d3/wiki/Requests "d3js populate data")
 
 Resources
----------
->[Lodash](https://lodash.com/docs "lodash")
-> [_filter](http://stackoverflow.com/questions/17096988/lodash-how-do-i-use-filter-when-i-have-nested-object "filter function")
-> https://github.com/mbostock/d3/wiki/Requests
+=========
+> Leaflet
+----------
+>> [leaflet's documentation] (http://leafletjs.com/examples/quick-start.html "Leaflet documentation")
 
-Sources and References
-----------------------
-> * [centering things in css] (https://css-tricks.com/centering-css-complete-guide/ "centering things in css")
-> * [leaflet's documentation] (http://leafletjs.com/examples/quick-start.html "Leaflet documentation")
+Array methods
+-------------
+* [destructuring](http://raganwald.com/2015/02/02/destructuring.html "destructuring")
+* [Lodash](https://lodash.com/docs "lodash")
+* [_filter](http://stackoverflow.com/questions/17096988/lodash-how-do-i-use-filter-when-i-have-nested-object "filter function")
+* [centering things in css] (https://css-tricks.com/centering-css-complete-guide/ "centering things in css")
 
-> D3 Tutorials
-> https://github.com/mbostock/d3/wiki/Tutorials
-> [D3.js making beautiful web maps] (https://www.toptal.com/javascript/a-map-to-perfection-using-d3-js-to-make-beautifa "d3.js making beautifuk web apps")
-> [d3js and leaflet] (http://bl.ocks.org/sumbera/10463358 "d3 and leaflet")
-> [lodash deep](https://github.com/marklagendijk/lodash-deep "lodash deep")
 
-##Inspiring videos
-> [Google Maps developer] (https://www.youtube.com/watch?v=wqPGFs0cqxI "Google I/O")
-> [mapbox and leaflet youtube video] (https://www.youtube.com/watch?v=jRXaQC0jKcg "mapbox and leaflet yt tutorial")
+D3 Tutorials
+------------
+* [d3 wiki](https://github.com/mbostock/d3/wiki/Tutorials)
+* [D3.js making beautiful web maps] (https://www.toptal.com/javascript/a-map-to-perfection-using-d3-js-to-make-beautifa "d3.js making beautifuk web apps")
+* [d3js and leaflet] (http://bl.ocks.org/sumbera/10463358 "d3 and leaflet")
+* [lodash deep](https://github.com/marklagendijk/lodash-deep "lodash deep")
+
+> Inspiring videos
+* [Google Maps developer] (https://www.youtube.com/watch?v=wqPGFs0cqxI "Google I/O")
+* [mapbox and leaflet youtube video] (https://www.youtube.com/watch?v=jRXaQC0jKcg "mapbox and leaflet yt tutorial")
 
