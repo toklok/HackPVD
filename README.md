@@ -7,6 +7,7 @@ I had to learn about data and how to manipulate it to display on a Leaflet.js ma
 
 I learned the [RI Open Data](http://www.ri.gov/data/ "open data") was a [2D Array](https://www.cs.cmu.edu/~mrmiller/15-110/Handouts/arrays2D.pdf "2dimensional array")
 
+[destructuring](http://raganwald.com/2015/02/02/destructuring.html "destructuring")
 
 How to install on my own computer?
 ==================================
