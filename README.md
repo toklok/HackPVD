@@ -15,10 +15,10 @@ How to install on my own computer?
 + [learn the command line](https://www.codecademy.com/learn/learn-the-command-line "use the cli")
 + [install nodejs](https://nodejs.org/en/download/ "nodejs")
 
-
-npm install
-node collection.js
-
+```
+  npm install
+  node collection.js (edit to extract certain data)
+```
 
 > Using Open Data from [RI Data](]http://data.providenceri.com/, "providence data")
 >[Providence Open Data](https://data.providenceri.gov/dataset/PPD-Arrest-Log-Past-30-Days-HACKATHON/k6cx-967p, "data set")
