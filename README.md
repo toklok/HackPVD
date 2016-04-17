@@ -1,4 +1,4 @@
-# **A HackPVD Project w/ the help of the contributors **
+#**A HackPVD Project using Rhode Island Open Data**
 
 Project Summary
 ---------------
@@ -23,14 +23,14 @@ How to install on my own computer?
 > Using Open Data from [RI Data](]http://data.providenceri.com/, "providence data")
 >[Providence Open Data](https://data.providenceri.gov/dataset/PPD-Arrest-Log-Past-30-Days-HACKATHON/k6cx-967p, "data set")
 >Part of the technology we are going for is data driven map.  
-> How we populated the data to d3: 
->>[Rhode Island Open Data](http://www.ri.gov/data/ "RI Open data")
->> [d3 populate data from Rhode Island](https://github.com/mbostock/d3/wiki/Requests "d3js populate data")
+>How we populated the data to d3: 
+>[Rhode Island Open Data](http://www.ri.gov/data/ "RI Open data")
+> [d3 populate data from Rhode Island](https://github.com/mbostock/d3/wiki/Requests "d3js populate data")
 
 Resources
 ---------
 >[Lodash](https://lodash.com/docs "lodash")
->[_filter](http://stackoverflow.com/questions/17096988/lodash-how-do-i-use-filter-when-i-have-nested-object "filter function")
+> [_filter](http://stackoverflow.com/questions/17096988/lodash-how-do-i-use-filter-when-i-have-nested-object "filter function")
 > https://github.com/mbostock/d3/wiki/Requests
 
 Sources and References
@@ -39,13 +39,12 @@ Sources and References
 > * [leaflet's documentation] (http://leafletjs.com/examples/quick-start.html "Leaflet documentation")
 
 > D3 Tutorials
->> * https://github.com/mbostock/d3/wiki/Tutorials
+> https://github.com/mbostock/d3/wiki/Tutorials
+> [D3.js making beautiful web maps] (https://www.toptal.com/javascript/a-map-to-perfection-using-d3-js-to-make-beautifa "d3.js making beautifuk web apps")
+> [d3js and leaflet] (http://bl.ocks.org/sumbera/10463358 "d3 and leaflet")
+> [lodash deep](https://github.com/marklagendijk/lodash-deep "lodash deep")
 
 ##Inspiring videos
->* [Google Maps developer] (https://www.youtube.com/watch?v=wqPGFs0cqxI "Google I/O")
->* [D3.js making beautiful web maps] (https://www.toptal.com/javascript/a-map-to-perfection-using-d3-js-to-make-beautifa "d3.js making beautifuk web apps")
->* [A Map to Perfection: Using D3.js to Make Beautiful Web Maps] (https://www.toptal.com/javascript/a-map-to-perfection-using-d3-js-to-make-beautifa)
->* [d3js and leaflet] (http://bl.ocks.org/sumbera/10463358 "d3 and leaflet")
->* [mapbox and leaflet youtube video] (https://www.youtube.com/watch?v=jRXaQC0jKcg "mapbox and leaflet yt tutorial")
->* [lodash deep](https://github.com/marklagendijk/lodash-deep "lodash deep")
+> [Google Maps developer] (https://www.youtube.com/watch?v=wqPGFs0cqxI "Google I/O")
+> [mapbox and leaflet youtube video] (https://www.youtube.com/watch?v=jRXaQC0jKcg "mapbox and leaflet yt tutorial")
 
