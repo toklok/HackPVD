@@ -15,15 +15,6 @@ _.mixin(require("lodash-deep"));
  *
  * Learn a little bit about Immutable data and for manipulation.
  * https://facebook.github.io/immutable-js/
- *
- *
- * * https://www.cs.cmu.edu/~mrmiller/15-110/Handouts/arrays2D.pdf
- *{
- *   [ riData: [
- *   data
- *     ]
- *   ]
- * }
  * super helpful because the data was a multi dimensional array.  http://stackoverflow.com/questions/10865025/merge-flatten-a-multidimensional-array-in-javascript
  * */
 
